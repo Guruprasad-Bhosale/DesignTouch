@@ -1,0 +1,79 @@
+{"timestamp": "2026-06-13T19:59:24.798946", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-13T19:59:25.565231", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Splitting dataset of 1820 samples into train and validation sets..."}
+{"timestamp": "2026-06-13T19:59:25.568442", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "XGBoost is not installed in the environment. Skipping XGBoost evaluation."}
+{"timestamp": "2026-06-13T19:59:25.568520", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating RandomForest..."}
+{"timestamp": "2026-06-13T19:59:26.575503", "level": "INFO", "component": "GestureVerse.Classifier", "message": "RandomForest validation accuracy: 0.7747"}
+{"timestamp": "2026-06-13T19:59:26.575588", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating SVM..."}
+{"timestamp": "2026-06-13T19:59:26.814581", "level": "INFO", "component": "GestureVerse.Classifier", "message": "SVM validation accuracy: 0.7473"}
+{"timestamp": "2026-06-13T19:59:26.814668", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating MLP..."}
+{"timestamp": "2026-06-13T19:59:27.900738", "level": "INFO", "component": "GestureVerse.Classifier", "message": "MLP validation accuracy: 0.7308"}
+{"timestamp": "2026-06-13T19:59:27.900879", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Best classifier selected: RandomForest (Val Acc: 0.7747)"}
+{"timestamp": "2026-06-13T19:59:27.900972", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Re-fitting RandomForest on the entire dataset..."}
+{"timestamp": "2026-06-13T19:59:29.471480", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model saved successfully to E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-13T19:59:29.471934", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Evaluation results saved to E:\\Projects101\\FilterTrack\\app/models\\evaluation_results.json"}
+{"timestamp": "2026-06-13T19:59:29.509586", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-13T20:00:18.990968", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-13T20:00:19.705464", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Splitting dataset of 1820 samples into train and validation sets..."}
+{"timestamp": "2026-06-13T20:00:19.707522", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "XGBoost is not installed in the environment. Skipping XGBoost evaluation."}
+{"timestamp": "2026-06-13T20:00:19.707574", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating RandomForest..."}
+{"timestamp": "2026-06-13T20:00:20.627070", "level": "INFO", "component": "GestureVerse.Classifier", "message": "RandomForest validation accuracy: 1.0000"}
+{"timestamp": "2026-06-13T20:00:20.627169", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating SVM..."}
+{"timestamp": "2026-06-13T20:00:20.787844", "level": "INFO", "component": "GestureVerse.Classifier", "message": "SVM validation accuracy: 1.0000"}
+{"timestamp": "2026-06-13T20:00:20.787919", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating MLP..."}
+{"timestamp": "2026-06-13T20:00:22.456006", "level": "INFO", "component": "GestureVerse.Classifier", "message": "MLP validation accuracy: 1.0000"}
+{"timestamp": "2026-06-13T20:00:22.456089", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Best classifier selected: RandomForest (Val Acc: 1.0000)"}
+{"timestamp": "2026-06-13T20:00:22.456178", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Re-fitting RandomForest on the entire dataset..."}
+{"timestamp": "2026-06-13T20:00:23.588409", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model saved successfully to E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-13T20:00:23.588743", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Evaluation results saved to E:\\Projects101\\FilterTrack\\app/models\\evaluation_results.json"}
+{"timestamp": "2026-06-13T20:00:23.620202", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-13T20:10:25.111998", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\nonexistent_model.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-13T20:11:15.284344", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\nonexistent_model.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-13T20:15:15.428345", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-13T20:16:08.405616", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\nonexistent_model.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-13T20:16:19.694687", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-13T20:17:43.690346", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-13T20:18:43.469639", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\nonexistent_model.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-13T20:18:58.649934", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-13T20:19:26.336110", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\nonexistent_model.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-13T20:19:43.376281", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\nonexistent_model.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-13T20:21:06.119389", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-13T20:29:53.644994", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\nonexistent_model.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-13T20:37:14.070129", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\nonexistent_model.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-13T20:37:37.211027", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\nonexistent_model.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-14T20:38:51.899989", "level": "INFO", "component": "GestureVerse.Classifier", "message": "ML Classifier is disabled via config. Bypassing pickle load to use fallback heuristics."}
+{"timestamp": "2026-06-14T20:44:19.818111", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-14T20:44:20.581242", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Splitting dataset of 1820 samples into train and validation sets..."}
+{"timestamp": "2026-06-14T20:44:20.730105", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating RandomForest..."}
+{"timestamp": "2026-06-14T20:44:21.803868", "level": "INFO", "component": "GestureVerse.Classifier", "message": "RandomForest validation accuracy: 1.0000"}
+{"timestamp": "2026-06-14T20:44:21.803985", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating SVM..."}
+{"timestamp": "2026-06-14T20:44:22.033559", "level": "INFO", "component": "GestureVerse.Classifier", "message": "SVM validation accuracy: 1.0000"}
+{"timestamp": "2026-06-14T20:44:22.033643", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating MLP..."}
+{"timestamp": "2026-06-14T20:44:25.690618", "level": "INFO", "component": "GestureVerse.Classifier", "message": "MLP validation accuracy: 1.0000"}
+{"timestamp": "2026-06-14T20:44:25.690756", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating XGBoost..."}
+{"timestamp": "2026-06-14T20:44:27.760772", "level": "INFO", "component": "GestureVerse.Classifier", "message": "XGBoost validation accuracy: 0.9918"}
+{"timestamp": "2026-06-14T20:44:27.760867", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Best classifier selected: RandomForest (Val Acc: 1.0000)"}
+{"timestamp": "2026-06-14T20:44:27.760920", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Re-fitting RandomForest on the entire dataset..."}
+{"timestamp": "2026-06-14T20:44:29.495123", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model saved successfully to E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-14T20:44:29.495556", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Evaluation results saved to E:\\Projects101\\FilterTrack\\app/models\\evaluation_results.json"}
+{"timestamp": "2026-06-14T20:44:29.534159", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-14T20:53:03.905200", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-14T20:53:04.684418", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Splitting dataset of 1820 samples into train and validation sets..."}
+{"timestamp": "2026-06-14T20:53:04.725866", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating RandomForest..."}
+{"timestamp": "2026-06-14T20:53:05.816454", "level": "INFO", "component": "GestureVerse.Classifier", "message": "RandomForest validation accuracy: 1.0000"}
+{"timestamp": "2026-06-14T20:53:05.816603", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating SVM..."}
+{"timestamp": "2026-06-14T20:53:06.067717", "level": "INFO", "component": "GestureVerse.Classifier", "message": "SVM validation accuracy: 1.0000"}
+{"timestamp": "2026-06-14T20:53:06.067884", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating MLP..."}
+{"timestamp": "2026-06-14T20:53:10.133454", "level": "INFO", "component": "GestureVerse.Classifier", "message": "MLP validation accuracy: 1.0000"}
+{"timestamp": "2026-06-14T20:53:10.133588", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Fitting and evaluating XGBoost..."}
+{"timestamp": "2026-06-14T20:53:11.880725", "level": "INFO", "component": "GestureVerse.Classifier", "message": "XGBoost validation accuracy: 0.9918"}
+{"timestamp": "2026-06-14T20:53:11.880847", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Best classifier selected: RandomForest (Val Acc: 1.0000)"}
+{"timestamp": "2026-06-14T20:53:11.880898", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Re-fitting RandomForest on the entire dataset..."}
+{"timestamp": "2026-06-14T20:53:13.531684", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model saved successfully to E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-14T20:53:13.532055", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Evaluation results saved to E:\\Projects101\\FilterTrack\\app/models\\evaluation_results.json"}
+{"timestamp": "2026-06-14T20:53:13.567154", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-14T20:55:52.268976", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-14T21:10:29.922550", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-14T21:11:15.367735", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-14T21:12:40.251201", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}
+{"timestamp": "2026-06-14T21:14:45.628688", "level": "WARNING", "component": "GestureVerse.Classifier", "message": "Model file not found at E:\\Projects101\\FilterTrack\\nonexistent_model.pkl. Fallback prediction heuristics will be active."}
+{"timestamp": "2026-06-14T21:16:16.699404", "level": "INFO", "component": "GestureVerse.Classifier", "message": "Model loaded successfully from E:\\Projects101\\FilterTrack\\app/models/sign_language_cls.pkl"}

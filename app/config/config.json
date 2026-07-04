@@ -1,0 +1,28 @@
+{
+  "camera_index": 0,
+  "fps_cap": 60,
+  "cursor_sensitivity": 1.5,
+  "selection_threshold": 0.035,
+  "release_threshold": 0.055,
+  "filter_cooldown_ms": 1000,
+  "enabled_modules": [
+    "filter_mode",
+    "sign_language"
+  ],
+  "enabled_filters": [
+    "ThermalVision",
+    "NightVision",
+    "CyberpunkGlow",
+    "EdgeDetection",
+    "PixelSort",
+    "WaterDistortion",
+    "CRTMonitor",
+    "RGB_Split",
+    "Hologram",
+    "Galaxy_Portal"
+  ],
+  "sign_language_model": "app/models/sign_language_cls.pkl",
+  "dataset_version": "v1.0",
+  "enable_ml_classifier": true,
+  "disable_filters": false
+}

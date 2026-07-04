@@ -1,0 +1,10 @@
+{
+    "best_model": "RandomForest",
+    "best_accuracy": 1.0,
+    "all_scores": {
+        "RandomForest": 1.0,
+        "SVM": 1.0,
+        "MLP": 1.0,
+        "XGBoost": 0.9917582417582418
+    }
+}
