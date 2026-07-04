@@ -272,13 +272,13 @@ python main.py --cpu
 
 # 📸 Screenshots
 
-| Thermal Vision                      | VHS Glitch                      |
-| ----------------------------------- | ------------------------------- |
-| ![](assets/screenshots/thermal.png) | ![](assets/screenshots/vhs.png) |
+| Thermal Vision                      | Night Vision                       |
+| ----------------------------------- | ---------------------------------- |
+| ![](assets/screenshots/thermal.png) | ![](assets/screenshots/NightV.png) |
 
-| Glass Refraction                  | Halftone                             |
-| --------------------------------- | ------------------------------------ |
-| ![](assets/screenshots/glass.png) | ![](assets/screenshots/halftone.png) |
+| Edge Glow                            | CRT Monitor                      |
+| ------------------------------------ | -------------------------------- |
+| ![](assets/screenshots/EdgeGlow.png) | ![](assets/screenshots/CRTM.png) |
 
 ---
 
